@@ -19,4 +19,4 @@ nvcc slice.cu
 .\a.exe
 ```
 
-### Image loading and saving scripts from https://github.com/nothings/stb/tree/master
+### Image loading and saving scripts from https://github.com/nothings/stb/
